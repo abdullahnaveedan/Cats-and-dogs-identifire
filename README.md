@@ -1,6 +1,6 @@
 # Cats-and-dogs-identifire
 You have to download the latest versions of libraries.
--> Keras
+* Keras
 -> Tensorflow
 -> Numpy
 -> opencv
